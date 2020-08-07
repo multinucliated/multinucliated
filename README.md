@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm ANshul
+### I'm Anshul
 
 ## I'm a Developer and Teacher!
 - 🔭 I’m currently working on a STT and TTS system!
