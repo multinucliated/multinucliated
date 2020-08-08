@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anshul Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][instagram ]
-[<img align="left" alt="anshul StackOverlow " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="anshul LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anshul Instagram" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/16.png" />][Instagram ]
+[<img align="left" alt="anshul StackOverlow " width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/stackoverlow_24.png" />][StackOverlow]
+[<img align="left" alt="anshul LinkedIn" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/linkedin_24.png" />][LinkedIn]
 
 <br />
 
