@@ -35,11 +35,6 @@
 [<img align="left" alt="spark" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/spark.jpg" />]
 [<img align="left" alt="tensorflow" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/tensorflow.jpg" />]
 [<img align="left" alt="visual_studio" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/visual_studio.png" />]
-[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
-[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
-[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
-[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
-[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
 
 
 ### Web FrameWork:
@@ -47,12 +42,14 @@
 [<img align="left" alt="django" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/django.png" />]
 [<img align="left" alt="Flask" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/flask.png" />]
 
+--
 
 ### Database Services:
 
 [<img align="left" alt="cassandra" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/cassandra.jpg" />]
 [<img align="left" alt="postgres" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/postgres.jpg" />]
 
+--
 
 ### Cloud Services:
 
