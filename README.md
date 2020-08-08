@@ -22,7 +22,7 @@
 
 <img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png"/>
 <img align="left" alt="android_studio" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android_studio.png" />
-<img align="left" alt="Atom" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/atom.jpg" />]
+<img align="left" alt="Atom" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/atom.jpg" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/css.png" />
 <img align="left" alt="html5" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/html5.png" />
 <img align="left" alt="java" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/java.png" />
@@ -56,7 +56,7 @@
 
 <img align="left" alt="AWS" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/aws.png" />
 <img align="left" alt="Azure" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/azure.png" />
-[<img align="left" alt="digitalocean" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/digitalocean.png" />
+<img align="left" alt="digitalocean" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/digitalocean.png" />
 <img align="left" alt="GCP" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/gcp.png" />
 
 <br>
@@ -79,4 +79,3 @@
 
 <img align="left" alt="ubuntu" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/ubuntu.png" />
 
----
