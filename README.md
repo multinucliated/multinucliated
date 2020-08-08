@@ -20,7 +20,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
+
+[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png"/>]
 [<img align="left" alt="android_studio" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android_studio.png" />]
 [<img align="left" alt="Atom" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/atom.jpg" />] 
 [<img align="left" alt="CSS" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/css.png" />]
@@ -75,7 +76,8 @@
 [<img align="left" alt="Google" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/google.png" />]
 
 
-### API/SDK integration:
+### Favourite OS:
 
 [<img align="left" alt="ubuntu" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/ubuntu.png" />]
+
 ---
