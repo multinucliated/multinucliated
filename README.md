@@ -3,17 +3,18 @@
 ### I'm Anshul
 
 ## I'm a Developer and Teacher!
-- 🔭 I’m currently working on a STT and TTS system!
+- :octocat: I’m currently working on a STT and TTS system!
+- 🔭 Love to do Product analysis using different tools 
 - 🌱 I’m currently learning everything in machine learning and deep learning 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to innovate and discover 
+- ⚡ Fun fact: I love to innovate , discover and dont know when I'll travel :trollface:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anshul Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][instagram ]
+[<img align="left" alt="anshul StackOverlow " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="anshul LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
