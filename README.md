@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ### I'm Anshul
-
-### I'm a Developer, Teacher and Tech Enthusiast !
+### A Developer, Teacher and Tech Enthusiast !
 - :octocat: I’m currently working on a STT and TTS system!
 - 🔭 Love to do Product analysis using different tools 
 - 🌱 I’m currently learning everything in machine learning and deep learning 🤣
