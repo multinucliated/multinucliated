@@ -15,7 +15,7 @@
 [<img align="left" alt="anshul StackOverlow " width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/stackoverlow_24.png" />](https://stackoverflow.com/users/5830801/anshul-verma)
 [<img align="left" alt="anshul LinkedIn" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/linkedin_24.png" />](https://www.linkedin.com/in/anshulhikejbp/)
 
-<br>
+<br/>
 
 ### Languages and Tools:
 
@@ -35,21 +35,21 @@
 <img align="left" alt="tensorflow" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/tensorflow.jpg" />
 <img align="left" alt="visual_studio" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/visual_studio.png" />
 
-<br>
+<br/>
 
 ### Web FrameWork:
 
 <img align="left" alt="django" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/django.png" />
 <img align="left" alt="Flask" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/flask.png" />
 
-<br>
+<br/>
 
 ### Database Services:
 
 <img align="left" alt="cassandra" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/cassandra.jpg" />
 <img align="left" alt="postgres" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/postgres.jpg" />
 
-<br>
+<br/>
 
 ### Cloud Services:
 
@@ -58,21 +58,21 @@
 <img align="left" alt="digitalocean" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/digitalocean.png" />
 <img align="left" alt="GCP" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/gcp.png" />
 
-<br>
+<br/>
 
 ### Versioning System:
 
 <img align="left" alt="GIT" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/git.png" />
 <img align="left" alt="svn" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/svn.png" />
 
-<br>
+<br/>
 
 ### API/SDK integration:
 
 <img align="left" alt="facebook" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/facebook.png" />
 <img align="left" alt="Google" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/google.png" />
 
-<br>
+<br/>
 
 ### Favourite OS:
 
