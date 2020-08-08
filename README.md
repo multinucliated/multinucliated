@@ -6,7 +6,7 @@
 - :octocat: I’m currently working on a STT and TTS system!
 - 🔭 Love to do Product analysis using different tools 
 - 🌱 I’m currently learning everything in machine learning and deep learning 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers and creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to innovate , discover and dont know when I'll travel :trollface:
 
