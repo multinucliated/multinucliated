@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anshul Instagram" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/16.png" />][Instagram ]
+[<img align="left" alt="anshul Instagram" width="22px" href="https://www.instagram.com/anshul.verma_/" src="https://github.com/multinucliated/multinucliated/blob/master/images/24_insta.png" />][Instagram ]
 [<img align="left" alt="anshul StackOverlow " width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/stackoverlow_24.png" />][StackOverlow]
 [<img align="left" alt="anshul LinkedIn" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/linkedin_24.png" />][LinkedIn]
 
