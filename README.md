@@ -20,24 +20,62 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
+[<img align="left" alt="android_studio" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android_studio.png" />]
+[<img align="left" alt="Atom" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/atom.jpg" />] 
+[<img align="left" alt="CSS" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/css.png" />]
+[<img align="left" alt="html5" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/html5.png" />]
+[<img align="left" alt="java" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/java.png" />]
+[<img align="left" alt="jupyter" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/jupyter.jpg" />]
+[<img align="left" alt="Kafka" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/kafka" />]
+[<img align="left" alt="opencv" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/opencv.png" />]
+[<img align="left" alt="pycharm" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/pycharm.jpg" />]
+[<img align="left" alt="python" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/python.png" />]
+[<img align="left" alt="pytorch" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/pytorch.jpg" />]
+[<img align="left" alt="spark" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/spark.jpg" />]
+[<img align="left" alt="tensorflow" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/tensorflow.jpg" />]
+[<img align="left" alt="visual_studio" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/visual_studio.png" />]
+[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
+[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
+[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
+[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
+[<img align="left" alt="Android" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/android.png" />]
 
-<br />
-<br />
 
+### Web FrameWork:
+
+[<img align="left" alt="django" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/django.png" />]
+[<img align="left" alt="Flask" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/flask.png" />]
+
+
+### Database Services:
+
+[<img align="left" alt="cassandra" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/cassandra.jpg" />]
+[<img align="left" alt="postgres" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/postgres.jpg" />]
+
+
+### Cloud Services:
+
+[<img align="left" alt="AWS" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/aws.png" />]
+[<img align="left" alt="Azure" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/azure.png" />]
+[<img align="left" alt="digitalocean" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/digitalocean.png" />]
+[<img align="left" alt="GCP" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/gcp.png" />]
+
+
+### Versioning System:
+
+[<img align="left" alt="GIT" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/git.png" />]
+[<img align="left" alt="svn" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/svn.png" />]
+
+
+
+### API/SDK integration:
+
+[<img align="left" alt="facebook" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/facebook.png" />]
+[<img align="left" alt="Google" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/google.png" />]
+
+
+### API/SDK integration:
+
+[<img align="left" alt="ubuntu" width="26px" src="https://github.com/multinucliated/multinucliated/blob/master/images/ubuntu.png" />]
 ---
