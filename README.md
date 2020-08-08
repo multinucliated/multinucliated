@@ -10,9 +10,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to innovate , discover and dont know when I'll travel :trollface:
 
+[![Instgram](https://github.com/multinucliated/multinucliated/blob/master/images/24_insta.png)](https://www.instagram.com/anshul.verma_)
+[![StackOverlow](https://github.com/multinucliated/multinucliated/blob/master/images/stackoverlow_24.png)](https://stackoverflow.com/users/5830801/anshul-verma)
+[![LinkedIn](https://github.com/multinucliated/multinucliated/blob/master/images/linkedin_24.png)](https://www.linkedin.com/in/anshulhikejbp/)
+
+
 ### Connect with me:
 
-[<img align="left" alt="anshul Instagram" width="22px" href="https://www.instagram.com/anshul.verma_/" src="https://github.com/multinucliated/multinucliated/blob/master/images/24_insta.png" />][Instagram ]
+[<img align="left" alt="anshul Instagram" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/24_insta.png" />][Instagram ](https://www.instagram.com/anshul.verma_/)
 [<img align="left" alt="anshul StackOverlow " width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/stackoverlow_24.png" />][StackOverlow]
 [<img align="left" alt="anshul LinkedIn" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/linkedin_24.png" />][LinkedIn]
 
