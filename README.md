@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 ### I'm Anshul
 
-## I'm a Developer and Teacher!
+### I'm a Developer, Teacher and Tech Enthusiast !
 - :octocat: I’m currently working on a STT and TTS system!
 - 🔭 Love to do Product analysis using different tools 
 - 🌱 I’m currently learning everything in machine learning and deep learning 🤣
@@ -16,7 +16,7 @@
 [<img align="left" alt="anshul StackOverlow " width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/stackoverlow_24.png" />](https://stackoverflow.com/users/5830801/anshul-verma)
 [<img align="left" alt="anshul LinkedIn" width="22px" src="https://github.com/multinucliated/multinucliated/blob/master/images/linkedin_24.png" />](https://www.linkedin.com/in/anshulhikejbp/)
 
-<br />
+<br>
 
 ### Languages and Tools:
 
